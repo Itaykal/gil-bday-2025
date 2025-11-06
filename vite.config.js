@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/bday/', // Change this to match your repo name!
+  base: '/gil-bday-2025/', // MUST match your exact repo name!
 })
