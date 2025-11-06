@@ -156,7 +156,7 @@
   position: relative;
   overflow: hidden;
   transition: all 0.3s ease;
-  /* font-family: 'Comic Sans MS', sans-serif; */
+  font-family: 'Comic Sans MS', sans-serif;
 }
 
 .blessing-text::before {
@@ -852,7 +852,7 @@
   cursor: pointer;
   transition: all 0.3s ease;
   backdrop-filter: blur(10px);
-  /* font-family: 'Comic Sans MS', sans-serif; */
+  font-family: 'Comic Sans MS', sans-serif;
 }
 
 .atla-close:hover {
@@ -892,7 +892,7 @@
 .first-click-text {
   font-size: 10rem;
   font-weight: 900;
-  /* font-family: 'Comic Sans MS', cursive, sans-serif; */
+  font-family: 'Comic Sans MS', cursive, sans-serif;
   text-transform: uppercase;
   background: linear-gradient(45deg, #ff0080, #ff8c00, #40e0d0, #7fff00, #ff0080);
   background-size: 300% 300%;
