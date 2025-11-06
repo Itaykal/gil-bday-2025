@@ -2,11 +2,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
 }
 
 body {
   margin: 0;
-  /* font-family: 'Comic Sans MS', cursive, sans-serif; */
   overflow-x: hidden;
   background: linear-gradient(45deg, #ff6ec4, #7873f5, #4ade80, #fbbf24, #ff6ec4);
   background-size: 400% 400%;
