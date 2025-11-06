@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  overflow-x: hidden;
+  background: linear-gradient(45deg, #ff6ec4, #7873f5, #4ade80, #fbbf24, #ff6ec4);
+  background-size: 400% 400%;
+  animation: gradient 5s ease infinite;
+  min-height: 100vh;
+}
+
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+#root {
+  min-height: 100vh;
+  width: 100%;
+}

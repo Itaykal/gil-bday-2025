@@ -1,0 +1,55 @@
+{
+  "title": "HAPPY BIRTHDAY",
+  "blessings": [
+    "STEMI TA'PE",
+    "You're 17 😱 (small age)",
+    "May you always take the path of air instead of fire",
+    "We will always choose you over cosmic energy",
+    "May you allways find your pedrick and not your joffrey",
+    "ERE"
+  ],
+  "wishesTitle": "MAY YOUR YEAR BE FILLED WITH:",
+  "wishes": [
+    "Vinland saga volume whatever",
+    "[This newly released](https://www.youtube.com/watch?v=dQw4w9WgXcQ) vinland saga pop",
+    "A shelf-only house for ur books",
+    "More tiktoks with April getting the bad option" 
+  ],
+  "cakeHint": "(click the cake...)",
+  "cakeHintFinal": "🔥🔥🔥",
+  "secretMessage": {
+    "title": "🎊 ACHIEVEMENT UNLOCKED 🎊",
+    "lines": [
+      "YOU CLICKED A CAKE 5 TIMES",
+      "COMMITMENT: 100",
+      "ALSO IT'S YOUR BIRTHDAY",
+      "SO THAT'S PRETTY COOL ✨"
+    ]
+  },
+  "footer": {
+    "main": "HAPPY BIRTHDAY 🎂",
+    "subtitle": "(made this instead of touching grass)"
+  },
+  "firstClickPopup": "STEMI TA'PE",
+  "atla": {
+    "title": "The Birthday Bender",
+    "quotes": [
+      {
+        "quote": "That's rough buddy",
+        "speaker": "Zuko"
+      },
+      {
+        "quote": "Ahhh it's a me Aang, Imma save tha world",
+        "speaker": "Aang (probably)"
+      }
+    ],
+    "elements": [
+      "💧 wa'er",
+      "🌍 e'th",
+      "🔥 fia",
+      "🌪️ er"
+    ],
+    "footer": "Yip yip! you get BALL CANCER",
+    "closeButton": "Close ✖️"
+  }
+}
